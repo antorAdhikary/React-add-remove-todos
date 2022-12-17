@@ -1,0 +1,22 @@
+.todoContainer {
+    background-color: rgb(212, 206, 225);
+    padding: 0 0.5rem;
+    margin: 1rem;
+    border-radius: 0.4rem;
+    display: flex;
+    justify-content: space-between;
+    transition: 1s;
+}
+.todoContainer:hover {
+    background-color: rgb(210, 175, 214)
+}
+.todoBtn {
+    background-color: transparent;
+    border: none;
+    font-size: 4rem;
+    cursor: pointer;
+    transition: 1s;
+}
+.todoBtn:hover {
+    color: rgb(249, 7, 7);
+}

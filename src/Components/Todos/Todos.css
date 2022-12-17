@@ -1,0 +1,8 @@
+.todosContainer {
+    padding: 2rem 1rem;
+    background-color: aliceblue;
+    width: 50%;
+    margin: 0 auto;
+    border-radius: 0 0 10px 10px;
+    color: black;
+}
